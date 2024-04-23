@@ -7,6 +7,10 @@ permalink: /
 
 
 
+<img
+  class="fit-picture"
+  src="/media/cc0-images/grapefruit-slice-332-332.jpg"
+  alt="Grapefruit slice atop a pile of other slices" style="mergin 0 auto" />
 
 
 ---
@@ -41,9 +45,9 @@ permalink: /
       1. さらにネスト
 
 
-| 列1  | 列2  |
+| 列1 | 列2 |
 |-----|-----|
-| 内容  | 内容  |
-| 内容  | 内容  |
+| 内容 | 内容 |
+| 内容 | 内容 |
 
 ![image](/GHPages_WebSite/assets/images/logo-150.png)
