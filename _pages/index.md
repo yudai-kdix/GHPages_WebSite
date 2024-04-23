@@ -5,12 +5,7 @@ permalink: /
 ---
 
 
-
-
-<img
-  class="fit-picture"
-  src="/media/cc0-images/grapefruit-slice-332-332.jpg"
-  alt="Grapefruit slice atop a pile of other slices" style="mergin 0 auto" />
+<img src="https://github.com/yudai-kdix/GHPages_WebSite/blob/main/assets/images/logo-150.png" style="display: block; margin: 0 auto;"/>
 
 
 ---
