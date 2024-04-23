@@ -5,7 +5,7 @@ permalink: /
 ---
 
 
-<img src="https://github.com/yudai-kdix/GHPages_WebSite/blob/main/assets/images/logo-150.png" style="display: block; margin: 0 auto;"/>
+<img src="https://yudai-kdix.github.io/GHPages_WebSite/assets/images/logo-150.png" style="display: block; margin: 0 auto;"/>
 
 
 ---
